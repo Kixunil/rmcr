@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Martin Habovštiak <martin.habovstiak@gmail.com>"]
 
 [dependencies]
+memchr = "0.1.11"
